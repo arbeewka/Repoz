@@ -1,3 +1,10 @@
 body{
     background-color: bisque;
 }
+.main {
+    background-color: aqua;
+}
+.title {
+    font-size: 40px;
+    color: blueviolet;
+}
